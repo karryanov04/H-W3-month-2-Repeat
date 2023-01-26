@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		C47E9F6C2981B90600ABD237 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = C47E9F6B2981B90600ABD237 /* main.swift */; };
+		C47E9F732981B92C00ABD237 /* Computer.swift in Sources */ = {isa = PBXBuildFile; fileRef = C47E9F722981B92C00ABD237 /* Computer.swift */; };
+		C47E9F752981B96B00ABD237 /* Laptop.swift in Sources */ = {isa = PBXBuildFile; fileRef = C47E9F742981B96B00ABD237 /* Laptop.swift */; };
+		C47E9F772981B99300ABD237 /* Phone.swift in Sources */ = {isa = PBXBuildFile; fileRef = C47E9F762981B99300ABD237 /* Phone.swift */; };
+		C47E9F792981B9BE00ABD237 /* RepairServ.swift in Sources */ = {isa = PBXBuildFile; fileRef = C47E9F782981B9BE00ABD237 /* RepairServ.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +29,10 @@
 /* Begin PBXFileReference section */
 		C47E9F682981B90600ABD237 /* W3 month 2 Repeat */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "W3 month 2 Repeat"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C47E9F6B2981B90600ABD237 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		C47E9F722981B92C00ABD237 /* Computer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Computer.swift; sourceTree = "<group>"; };
+		C47E9F742981B96B00ABD237 /* Laptop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Laptop.swift; sourceTree = "<group>"; };
+		C47E9F762981B99300ABD237 /* Phone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Phone.swift; sourceTree = "<group>"; };
+		C47E9F782981B9BE00ABD237 /* RepairServ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepairServ.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,10 @@
 			isa = PBXGroup;
 			children = (
 				C47E9F6B2981B90600ABD237 /* main.swift */,
+				C47E9F722981B92C00ABD237 /* Computer.swift */,
+				C47E9F742981B96B00ABD237 /* Laptop.swift */,
+				C47E9F762981B99300ABD237 /* Phone.swift */,
+				C47E9F782981B9BE00ABD237 /* RepairServ.swift */,
 			);
 			path = "W3 month 2 Repeat";
 			sourceTree = "<group>";
@@ -120,7 +132,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C47E9F772981B99300ABD237 /* Phone.swift in Sources */,
+				C47E9F732981B92C00ABD237 /* Computer.swift in Sources */,
+				C47E9F792981B9BE00ABD237 /* RepairServ.swift in Sources */,
 				C47E9F6C2981B90600ABD237 /* main.swift in Sources */,
+				C47E9F752981B96B00ABD237 /* Laptop.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
